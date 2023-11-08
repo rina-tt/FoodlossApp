@@ -22,7 +22,8 @@
 <img width="1122" alt="recipe" src="https://github.com/rina-tt/FoodlossApp/assets/71320379/e5469c2d-5444-4a37-8ac3-4b0b7e859933">
 
 ### 在庫追加画面
-<img width="1127" alt="add_stock" src="https://github.com/rina-tt/FoodlossApp/assets/71320379/41930f47-0718-48c3-ba6b-07765df060db">
+<img width="1005" alt="stock" src="https://github.com/rina-tt/FoodlossApp/assets/71320379/2004068c-51da-41f2-835d-ca1813a04561">
+<img width="1004" alt="add_stock2" src="https://github.com/rina-tt/FoodlossApp/assets/71320379/9ac86b05-3ee0-4a8c-833c-b62ae4e36aec">
 
 <!--## 現在確認されている不具合・改善点
 - [ ] レシピの「もっと見る」を押した際に表示が途切れる場合がある
