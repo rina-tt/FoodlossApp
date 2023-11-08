@@ -14,6 +14,16 @@
 - 基本機能：在庫登録、確認、編集、削除、レシート読み込み、消費とロスの金額をグラフ表示、期限切れが近い食品を用いたレシピの提案
 - URL：https://foodlossapp-qtzdd49irr2mxuigj3mkdd.streamlit.app/
 
+### ログイン画面
+<img width="1128" alt="home" src="https://github.com/rina-tt/FoodlossApp/assets/71320379/4e134e25-d25a-4ab2-b207-0057257ac0d1">
+
+### レシピ推薦
+消費期限が最も早い、すぐに消費するべき食材を使うレシピを優先して表示します。
+<img width="1122" alt="recipe" src="https://github.com/rina-tt/FoodlossApp/assets/71320379/e5469c2d-5444-4a37-8ac3-4b0b7e859933">
+
+### 在庫追加画面
+<img width="1127" alt="add_stock" src="https://github.com/rina-tt/FoodlossApp/assets/71320379/41930f47-0718-48c3-ba6b-07765df060db">
+
 <!--## 現在確認されている不具合・改善点
 - [ ] レシピの「もっと見る」を押した際に表示が途切れる場合がある
 - [ ] ユーザー名を入力する前に「Recipe」や「Stock」のページに遷移すると中途半端なエラーメッセージが表示される
