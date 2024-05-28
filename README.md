@@ -12,7 +12,7 @@
 - 原因：買いすぎ、消費期限の把握不足、レシピがわからない
 - 解決する方法：在庫を管理する、消費期限が近い食材を通知する、レシピを推薦して消費を促す
 - 基本機能：在庫登録、確認、編集、削除、レシート読み込み、消費とロスの金額をグラフ表示、期限切れが近い食品を用いたレシピの提案
-- URL：https://foodlossapp-qtzdd49irr2mxuigj3mkdd.streamlit.app/
+- URL：[https://foodlossapp-qtzdd49irr2mxuigj3mkdd.streamlit.app/](https://foodlossapp-kyaivashpu42jrqnheaqxn.streamlit.app/)
 
 ### ログイン画面
 <img width="1128" alt="home" src="https://github.com/rina-tt/FoodlossApp/assets/71320379/4e134e25-d25a-4ab2-b207-0057257ac0d1">
